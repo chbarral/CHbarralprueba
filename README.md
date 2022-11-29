@@ -1,2 +1,4 @@
 # CHbarralprueba
-mas pruebas
+mas pruebas.
+
+estoy en el workin directory.
